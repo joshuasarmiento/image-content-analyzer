@@ -1,0 +1,10 @@
+src/
+tests/
+*.test.ts
+*.spec.ts
+.eslintrc.js
+tsconfig.json
+jest.config.js
+.github/
+docs/
+examples/
